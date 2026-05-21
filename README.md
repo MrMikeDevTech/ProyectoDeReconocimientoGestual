@@ -74,6 +74,6 @@ python index.py
 ## Integrantes del equipo
 
 - Diego Emmanuel Rodriguez Ruvalcaba
-- 
+- Karol Jimena Marquez Gutierrez
 - 
 - 
