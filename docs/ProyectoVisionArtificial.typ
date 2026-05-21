@@ -36,7 +36,7 @@
 
   #text(size: 16pt)[*Maestro*] \
   #v(0.25em)
-  #text(size: 16pt)[Eduardo Ruben Hernandez Gonzalez]
+  #text(size: 16pt)[Eduardo Ruben Elias Hernandez Gonzalez]
 
   #v(3fr)
 
