@@ -16,8 +16,8 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
 Abre una terminal y ejecuta el siguiente comando (reemplaza los valores en mayúsculas con los tuyos):
 
 ```bash
-git clone https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
-cd NOMBRE_PROYECTO
+git clone https://github.com/MrMikeDevTech/ProyectoDeReconocimientoGestual.git
+cd ProyectoDeReconocimientoGestual
 ```
 
 ### 2. Crear el Entorno Virtual
