@@ -28,7 +28,7 @@
     #set list(marker: "", body-indent: 0pt)
     - #text(size: 16pt)[Diego Emmanuel Rodriguez Ruvalcaba]
     - #text(size: 16pt)[Karol Jimena Marquez Gutierrez]
-    - #text(size: 16pt)[]
+    - #text(size: 16pt)[Daniela Jessica Blanco]
     - #text(size: 16pt)[]
   ]
 
@@ -36,7 +36,7 @@
 
   #text(size: 16pt)[*Maestro*] \
   #v(0.25em)
-  #text(size: 16pt)[Sergio Agustin Banda Pérez]
+  #text(size: 16pt)[Eduardo Ruben Hernandez Gonzalez]
 
   #v(3fr)
 
