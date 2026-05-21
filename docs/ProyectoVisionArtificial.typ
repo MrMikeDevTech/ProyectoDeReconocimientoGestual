@@ -73,10 +73,7 @@ Esta arquitectura busca optimizar la interacción usuario-máquina (UX), proporc
   fill: luma(240),
   inset: 1em,
   align(center + horizon)[
-    #text(
-      style: "italic",
-      fill: gray,
-    )[Espacio reservado para fotografía del sistema en funcionamiento (Detección de gestos)]
+    #image("test1.jpeg", width: 100%)
   ],
 )
 #v(1em)
@@ -107,6 +104,6 @@ El sistema debe cumplir con los siguientes estándares técnicos y de diseño:
   fill: luma(240),
   inset: 1em,
   align(center + horizon)[
-    #text(style: "italic", fill: gray)[Espacio reservado para fotografía de la integración técnica y tecnologías]
+    #image("test2.jpeg", width: 100%)
   ],
 )
