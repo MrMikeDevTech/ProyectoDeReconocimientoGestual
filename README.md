@@ -75,5 +75,5 @@ python index.py
 
 - Diego Emmanuel Rodriguez Ruvalcaba
 - Karol Jimena Marquez Gutierrez
-- 
+- Daniela Jessica Blanco
 - 
