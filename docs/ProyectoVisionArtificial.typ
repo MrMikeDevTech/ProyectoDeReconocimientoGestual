@@ -27,7 +27,7 @@
   #[
     #set list(marker: "", body-indent: 0pt)
     - #text(size: 16pt)[Diego Emmanuel Rodriguez Ruvalcaba]
-    - #text(size: 16pt)[]
+    - #text(size: 16pt)[Karol Jimena Marquez Gutierrez]
     - #text(size: 16pt)[]
     - #text(size: 16pt)[]
   ]
