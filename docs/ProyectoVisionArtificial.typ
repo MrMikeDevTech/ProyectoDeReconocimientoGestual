@@ -29,7 +29,7 @@
     - #text(size: 16pt)[Diego Emmanuel Rodriguez Ruvalcaba]
     - #text(size: 16pt)[Karol Jimena Marquez Gutierrez]
     - #text(size: 16pt)[Daniela Jessica Blanco]
-    - #text(size: 16pt)[]
+    - #text(size: 16pt)[José Cabrales Franco]
   ]
 
   #v(1.5em)
